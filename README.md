@@ -1,10 +1,14 @@
 # IOT-Edge-Computing
 
-Sensor de estacionamento avisa quando o carro estiver há 50CM de distância da parede.
+Sensor de estacionamento  quando o carro estiver há 50CM de distância da parede o led acende e o piezo apita
 
-![](D:\gitRepo\-IOT-Edge-Computing\gif.gif)
+![](https://github.com/rockiir/-IOT-Edge-Computing/blob/main/gif.gif)
+
+### Blocos
+![](https://github.com/rockiir/-IOT-Edge-Computing/blob/main/chrome_g71vmo0t0A.png)
 
 
+### Código
 
 ```c
 // C++ code
